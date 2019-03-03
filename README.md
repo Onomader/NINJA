@@ -1,1 +1,1 @@
-# NINJA
+# NINJA Demo
